@@ -13,7 +13,7 @@ I work for, I am concurrently working as a UI, web publisher, and office work.ðŸ
 
 <h4>Contact</h4>
 
-<a href="mailto:renovatio2104@naver.com"><img src="https://img.shields.io/badge/renovatio2104@naver.com-3DDC84?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="mailto:renovatio2104@naver.com"><img src="https://img.shields.io/badge/renovatio2104@naver.com-2F9D27?style=flat-square&logo=naver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kakao-reno2104-FFE400?style=flat-square&logo=kakao&logoColor=black"/>
 
 
