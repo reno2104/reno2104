@@ -2,7 +2,7 @@
 I learned HCJ at DW_Academy in Daejeon  for 6 months👨‍🏫.<br>
 I am currently studying Python and working on a project.😆<br>
 At this company🚌<br>
-I work for, I am concurrently working as a UI, web publisher, and office work.👨‍💻
+I work for, I am concurrently working as a Web-page maker, web publisher, and office work.👨‍💻
 
 
 
